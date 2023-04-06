@@ -28,6 +28,8 @@ linkedin_username: jamescobonkerr
 # Build settings
 theme: minima
 
+google_analytics: G-81ZTQZT0PX
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
