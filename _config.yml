@@ -21,14 +21,20 @@
 title: James Cobon-Kerr
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jamescobonkerr
-github_username: jamescobonkerr
-linkedin_username: jamescobonkerr
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-remote-theme
 
 google_analytics: G-81ZTQZT0PX
+
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/jamescobonkerr" }
+    - { platform: twitter, user_url: "https://twitter.com/jamescobonkerr" }
+    - { platform: linkedin, user_url: "https://linkedin.com/in/jamescobonkerr" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
