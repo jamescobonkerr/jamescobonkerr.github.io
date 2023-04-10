@@ -31,6 +31,7 @@ plugins:
 google_analytics: G-81ZTQZT0PX
 
 minima:
+  skin: dark
   social_links:
     - { platform: github,  user_url: "https://github.com/jamescobonkerr" }
     - { platform: twitter, user_url: "https://twitter.com/jamescobonkerr" }
