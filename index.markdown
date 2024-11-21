@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hey! I am a software engineer and researcher at [Google DeepMind](https://www.deepmind.com/). I grew up in Newcastle, Australia and now live in De Beauvoir Town, London, United Kingdom with my partner.
+I am a senior engineer and researcher at [Google DeepMind](https://deepmind.google/), where I work on [Gemini](https://gemini.google.com/). My current focus is on scaling reinforcement learning to accelerate reasoning research. Previously, I worked on sourcing high-quality human data and capabilities development for both Gemini and [Sparrow](https://deepmind.google/discover/blog/building-safer-dialogue-agents/). Originally from Newcastle, Australia, I now live in the San Francisco Bay Area with my partner and two children.
