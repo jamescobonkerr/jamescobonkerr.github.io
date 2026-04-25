@@ -5,8 +5,6 @@
 layout: home
 ---
 
-I am a senior staff-level research engineer specializing in LLM post-training and distributed machine learning systems. My expertise spans scaling reinforcement learning algorithms, building high-performance distributed training and inference infrastructure, large scale human data collection, synthetic data generation, and research and development for various model capabilities.
+I am a researcher at [Google DeepMind](https://deepmind.google/) working on making [Gemini](https://gemini.google.com/) better at science. I have broad experience in LLM post-training, scaling reinforcement learning algorithms, distributed training and inference infrastructure, and synthetic data generation.
 
-I worked on [Gemini](https://gemini.google.com/) from its inception through 2.5 Pro. I'm now at [Microsoft AI](https://microsoft.ai/) helping to build an AI lab for Microsoft, where I combine deep technical execution with team building and technical leadership.
-
-Originally from Newcastle, Australia, I now live in the San Francisco Bay Area with my partner and two children.
+Originally from Newcastle, Australia, I now live in the San Francisco Bay Area with my partner and two children. Outside of work I'm an avid skier, guitarist, and tennis player, and take my coffee very seriously.
