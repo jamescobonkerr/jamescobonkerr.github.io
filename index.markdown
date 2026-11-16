@@ -5,6 +5,10 @@
 layout: home
 ---
 
-I am a researcher at [Google DeepMind](https://deepmind.google/) working on making [Gemini](https://gemini.google.com/) better at science. I have broad experience in LLM post-training, scaling reinforcement learning algorithms, distributed training and inference infrastructure, and synthetic data generation.
+I'm a researcher on the Blueshift team at [Google DeepMind](https://deepmind.google/), making [Gemini](https://gemini.google.com/) better at science. I turn real-world scientific workflows into reinforcement learning environments, and build the infrastructure to generate and validate them at scale.
 
-Originally from Newcastle, Australia, I now live in the San Francisco Bay Area with my partner and two children. Outside of work I'm an avid skier, guitarist, and tennis player, and take my coffee very seriously.
+Previously, I worked on reinforcement learning at [Microsoft AI](https://microsoft.ai/) (the former Inflection team), where I rebuilt the RL stack, built the STEM reasoning data used across the org, and later led the RL infrastructure team (see the [MAI-Thinking-1 report](https://microsoft.ai/pdf/mai-thinking-1.pdf)).
+
+Before that, I spent three years at Google DeepMind working on Sparrow and then on Gemini. I helped build Gemini's human data team and the RL infrastructure behind its post-training, and contributed to early work on reasoning and agents.
+
+Originally from Newcastle, Australia, I live in the San Francisco Bay Area with my partner and two children. I ski, play guitar and tennis, and take my coffee very seriously.
